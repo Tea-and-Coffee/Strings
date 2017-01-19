@@ -1,7 +1,7 @@
 # Strings
 
 ## Friends
-| English                | Japan           |
+| English                | Japanese        |
 |:-----------------------|:----------------|
 | Friend Request         | 友達申請をする　　  |
 | Friend Request Revoke  | 友達申請を撤回する  |
