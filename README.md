@@ -1,12 +1,12 @@
 # Strings
 
 ## Sign Up
-| English                      | Japanese               |
-|:-----------------------------|:-----------------------|
-| Sign Up  / Register Account  | サインアップ / 会員登録　  |
-| Sign In  / Log In            | サインイン　 / ログイン　  |
-| Sign Out / Log Out           | サインアウト / ログアウト  |
-| Withdraw                     | 退会　　　　　　　　　     |
+| English   |                   | Japanese   |           |
+|:----------|:------------------|:-----------|:----------|
+| Sign Up   | Register Account  | サインアップ  | 会員登録　  |
+| Sign In   | Log In            | サインイン　  | ログイン　  |
+| Sign Out  | Log Out           | サインアウト  | ログアウト  |
+| Withdraw  |                   | 退会　　　　  | 　　　　　  |
 
 ## Friends
 | English                | Japanese        |
