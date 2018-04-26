@@ -16,3 +16,12 @@
 | Friend Request Accept  | 友達申請を承認する  |
 | Friend Request Refuse  | 友達申請を却下する  |
 | Friend Dissolve        | 友達を解消する　　  |
+
+## Categories
+| English                | Japanese        |
+|:-----------------------|:----------------|
+| Information   | インフォメーション　  |
+| Monitoring    | モニタリング　　　　  |
+| Notification  | ノティフィケーション  |
+| Report        | レポート　　　　　　  |
+| Support       | サポート　　　　　　  |
