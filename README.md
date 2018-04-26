@@ -20,6 +20,7 @@
 ## Categories
 | English                | Japanese        |
 |:-----------------------|:----------------|
+| Alert         | アラート　　　　　　  |
 | Information   | インフォメーション　  |
 | Monitoring    | モニタリング　　　　  |
 | Notification  | ノティフィケーション  |
